@@ -1,12 +1,10 @@
-# Halo semua! 👋
+## About me
 
-Perkenalkan nama saya Muhammad Miftahul Huda, seorang mahasiswa dengan minat di bidang teknologi.
+I'm Muhammad Miftahul Huda, a passionate student with a keen interest in technology.
 
-## Tentang Saya
+<!-- TO DO: add more details about me later -->
 
-Saya adalah seorang mahasiswa yang bersemangat dalam belajar dan mengembangkan keterampilan di bidang teknologi. Saya aktif dalam menjelajahi berbagai proyek dan eksperimen di GitHub, serta terus meningkatkan pemahaman saya tentang dunia pengembangan perangkat lunak.
-
-## Statistik GitHub
+## GitHub Statistics
 
 <p align="left">
 <a href="https://github.com/eunoiamo">
@@ -14,7 +12,7 @@ Saya adalah seorang mahasiswa yang bersemangat dalam belajar dan mengembangkan k
 </a>
 </p>
 
-### Bahasa Pemrograman Teratas
+### Top Programming Languages
 
 <p align="left">
 <a href="https://github.com/eunoiamo">
@@ -22,7 +20,7 @@ Saya adalah seorang mahasiswa yang bersemangat dalam belajar dan mengembangkan k
 </a>
 </p>
 
-### Grafik Aktivitas
+### Activity Graph
 
 <p align="left">
 <a href="https://github.com/eunoiamo">
@@ -30,12 +28,12 @@ Saya adalah seorang mahasiswa yang bersemangat dalam belajar dan mengembangkan k
 </a>
 </p>
 
-## Kontak
+## Contact
 
-Jika Anda tertarik untuk berkolaborasi atau sekadar berbicara tentang teknologi, jangan ragu untuk menghubungi saya melalui email atau media sosial di bawah ini:
+If you're interested in collaborating or simply want to chat about technology, feel free to contact me via email or social media below:
 
-- Email: mifta@example.com
-- LinkedIn: [Muhammad Miftahul Huda](https://www.linkedin.com/in/miftahul-huda/)
-- Twitter: [@mifta_dev](https://twitter.com/mifta_dev)
+- Email: [miftahuda701@gmail.com](mailto:miftahuda701@gmail.com)
+- LinkedIn: [Muhammad Miftahul Huda](#)
 
-Terima kasih telah mengunjungi profil saya! 😄
+
+Thank you for visiting my profile! 😄
