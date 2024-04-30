@@ -10,8 +10,8 @@ Saya adalah seorang mahasiswa yang bersemangat dalam belajar dan mengembangkan k
 
 <p align="left">
 <a href="https://github.com/eunoiamo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eunoiamo&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunoiamo&hide_progress=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eunoiamo&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunoiamo&hide_progress=true"/>
 </a>
 </a>
 </p>
