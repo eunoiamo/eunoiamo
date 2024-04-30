@@ -1,39 +1,27 @@
-## About me
+# Halo semua! 👋
 
-I'm Muhammad Miftahul Huda, a passionate student with a keen interest in technology.
+Perkenalkan nama saya Muhammad Miftahul Huda, seorang mahasiswa dengan minat di bidang teknologi.
 
-<!-- TO DO: add more details about me later -->
+## Tentang Saya
 
-## GitHub Statistics
+Saya adalah seorang mahasiswa yang bersemangat dalam belajar dan mengembangkan keterampilan di bidang teknologi. Saya aktif dalam menjelajahi berbagai proyek dan eksperimen di GitHub, serta terus meningkatkan pemahaman saya tentang dunia pengembangan perangkat lunak.
+
+## GitHub Statistics and Languages
 
 <p align="left">
 <a href="https://github.com/eunoiamo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eunoiamo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eunoiamo&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunoiamo&hide_progress=true"/>
 </a>
-</p>
-
-### Top Programming Languages
-
-<p align="left">
-<a href="https://github.com/eunoiamo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eunoiamo&layout=compact&theme=algolia"/>
-</a>
-</p>
-
-### Activity Graph
-
-<p align="left">
-<a href="https://github.com/eunoiamo">
-  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=eunoiamo&theme=github"/>
 </a>
 </p>
 
 ## Contact
+## Kontak
 
-If you're interested in collaborating or simply want to chat about technology, feel free to contact me via email or social media below:
+Jika Anda tertarik untuk berkolaborasi atau sekadar berbicara tentang teknologi, jangan ragu untuk menghubungi saya melalui email atau media sosial di bawah ini:
 
 - Email: [miftahuda701@gmail.com](mailto:miftahuda701@gmail.com)
-- LinkedIn: [Muhammad Miftahul Huda](#)
+- instagram: [@eunoiamo](https://www.instagram.com/eunoiamo)
 
-
-Thank you for visiting my profile! 😄
+Terima kasih telah mengunjungi profil saya! 😄
