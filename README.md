@@ -8,16 +8,12 @@ Saya adalah seorang mahasiswa yang bersemangat dalam belajar dan mengembangkan k
 
 ## GitHub Statistics and Languages
 
-<p align="left">
 <a href="https://github.com/eunoiamo">
-  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eunoiamo&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunoiamo&hide_progress=true"/>
+  <img width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eunoiamo&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunoiamo&hide_progress=true"/>
 </a>
-</a>
-</p>
 
 ## Contact
-## Kontak
 
 Jika Anda tertarik untuk berkolaborasi atau sekadar berbicara tentang teknologi, jangan ragu untuk menghubungi saya melalui email atau media sosial di bawah ini:
 
