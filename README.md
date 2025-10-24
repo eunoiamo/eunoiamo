@@ -19,5 +19,6 @@ Jika Anda tertarik untuk berkolaborasi atau sekadar berbicara tentang teknologi,
 
 - Email: [miftahuda701@gmail.com](mailto:miftahuda701@gmail.com)
 - instagram: [@eunoiamo](https://www.instagram.com/eunoiamo)
+- LinkedIn: [@eunoiamo](https://www.linkedin.com/in/eunoiamo/)
 
 Terima kasih telah mengunjungi profil saya! 😄
